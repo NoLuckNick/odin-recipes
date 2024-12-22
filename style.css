@@ -1,0 +1,26 @@
+body {
+    background: rgb(187, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card{
+    width: 400px;
+    background-color: gray;
+    margin: 16px auto;
+    padding: 24px;
+    text-align: center;
+    color: white;
+}
+
+.chef{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+}
+
+.links{
+    background: gray;
+    width: 300px;
+    font-size: larger;
+}
